@@ -408,10 +408,37 @@ function cancelEdit() {
   transition: all 0.3s ease;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .notification-enter-from,
 .notification-leave-to {
   opacity: 0;
   transform: translateY(20px);
 }
+
+
 
 </style>
